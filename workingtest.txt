@@ -1,0 +1,5 @@
+1.AlreadyOK
+2.NotOK
+3.nextday
+prepare speech
+answer the question
